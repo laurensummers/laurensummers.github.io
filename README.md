@@ -18,7 +18,7 @@ To check the files added/updated/deleted:
     git status
 
 To add any new files to git:
-    git add .
+    git add -A
     
 To commit your chnages:
     git commit -m "A new post on food"
